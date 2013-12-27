@@ -56,7 +56,7 @@ So to control the thing, you need to replace IKEA's controller with the Arduino 
 
 I used male-female wires. Ikea used the standard pin distance, so they fit perfectly in the controller socket without any modifications.
 
-[Arduino replaces controller, almost](http://farm8.staticflickr.com/7347/11589966785_e25516e305.jpg)
+![Arduino replaces controller, almost](http://farm8.staticflickr.com/7347/11589966785_e25516e305.jpg)
 
 The code to control the colors is easy. Remember that without transistors or other electronics, you cannot get the full range of colors. But luckily, you're on the bright side :)
 
@@ -97,4 +97,8 @@ Legal stuff
 
 I am not affiliated and have no link with IKEA. IKEA and pobably DIODER brand are registred trademarks of IKEA.
 
-I was lucky and did not burn any circuit and my house didn't catch fire as a result of this experiment. Don't held me responsible if anything happens to you. . 
+I was lucky and did not burn any circuit and my house didn't catch fire as a result of this experiment. Don't held me responsible if anything happens to you.
+
+No license. Public domain. Use it however you want.
+
+[Flickr album](http://www.flickr.com/photos/cristiandinu/sets/72157639090497183/).
