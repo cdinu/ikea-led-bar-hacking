@@ -52,7 +52,7 @@ There are five pins for the controller connector: VCC, Green, Blue, Red, GND. VC
 
 So to control the thing, you need to replace IKEA's controller with the Arduino Circuit.
  
-[Using Arduino (right) as a controller for the DIODER LED bars](http://farm6.staticflickr.com/5529/11590310344_1d2ccbea31.jpg)
+![Using Arduino (right) as a controller for the DIODER LED bars](http://farm6.staticflickr.com/5529/11590310344_1d2ccbea31.jpg)
 
 I used male-female wires. Ikea used the standard pin distance, so they fit perfectly in the controller socket without any modifications.
 
